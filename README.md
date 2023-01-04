@@ -1,6 +1,6 @@
 # Aplicación de técnicas de machine learning para el mantenimiento predictivo
 
-Proyecto final de carrera
+Autor: Junjie Zhu
 
 ## 1. Resumen del trabajo
 Uno de los grandes problemas en los procesos de fabricación es la rotura de suministro, uno de estas causas es el fallo de las maquinarias de fabricación. Actualmente la solución más común es la realización de mantenimientos periódicos, cuyo método conlleva a un coste constante donde la mayoría de los casos es innecesario.
