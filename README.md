@@ -10,7 +10,6 @@ En este proyecto se estudia cómo puede las técnicas de análisis de datos avan
 Para exploración de de Datos, se ha realizado un estudio con la explocaració de los datos. Disponible en el archivo:
 
 TFM2.ipynb
-TFM2.html
 
 Resumen de la EDA realizada:
 
